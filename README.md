@@ -88,7 +88,7 @@ The main objectives of this project are to:
 
 ## 📷 Dashboard Preview
 
-![Customer Behavior Dasboard](dashboard.png)
+![Customer Behavior Dasboard]([dashboard.png](https://github.com/Anurag-Nk/Customer-Behaviour/blob/main/Customer%20Behavior%20Dashboard.png))
 
 ---
 
