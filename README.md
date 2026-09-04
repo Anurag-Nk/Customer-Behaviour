@@ -85,11 +85,25 @@ The main objectives of this project are to:
 - Convert analytical findings into actionable business insights.
 
 ---
+
 ## 📷 Dashboard Preview
 
 ![Customer Behavior Dasboard](dashboard.png)
 
 ---
+
+# 👨‍💻 Author
+
+**Anurag Nagarkoti**
+
+Aspiring Data Analyst | Power BI | Tableau | SQL | Advanced Excel | Python
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
+
+---
+
 # 🔄 Project Workflow
 
 The project follows an end-to-end data analytics pipeline:
